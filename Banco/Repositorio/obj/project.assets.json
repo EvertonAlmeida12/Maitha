@@ -1521,22 +1521,6 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "BancoApi/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.7"
-        },
-        "compile": {
-          "bin/placeholder/BancoApi.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BancoApi.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -5818,11 +5802,6 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "BancoApi/1.0.0": {
-      "type": "project",
-      "path": "../BancoApi/BancoApi.csproj",
-      "msbuildProject": "../BancoApi/BancoApi.csproj"
-    },
     "Dominio/1.0.0": {
       "type": "project",
       "path": "../Dominio/Dominio.csproj",
@@ -5831,7 +5810,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BancoApi >= 1.0.0",
       "Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.7",
@@ -5870,9 +5848,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\WINDOWS 8.1\\Documents\\TI\\Zero ao um\\API\\Maitha\\Banco\\BancoApi\\BancoApi.csproj": {
-              "projectPath": "C:\\Users\\WINDOWS 8.1\\Documents\\TI\\Zero ao um\\API\\Maitha\\Banco\\BancoApi\\BancoApi.csproj"
-            },
             "C:\\Users\\WINDOWS 8.1\\Documents\\TI\\Zero ao um\\API\\Maitha\\Banco\\Dominio\\Dominio.csproj": {
               "projectPath": "C:\\Users\\WINDOWS 8.1\\Documents\\TI\\Zero ao um\\API\\Maitha\\Banco\\Dominio\\Dominio.csproj"
             }

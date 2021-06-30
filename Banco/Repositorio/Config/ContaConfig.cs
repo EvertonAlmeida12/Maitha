@@ -22,10 +22,10 @@ namespace Repositorio.Config
             builder.Property(c => c.Tipo)
                 .IsRequired();
 
-            builder.Property(c => c.NrContra)
+            builder.Property(c => c.NrConta)
                 .IsRequired();
 
-            builder.Property(c => c.Saldo)
+            builder.Property(c => c.Saldos)
                 .IsRequired();
 
 
