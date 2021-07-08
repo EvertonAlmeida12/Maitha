@@ -65,3 +65,8 @@ C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Repositorio.dll
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Repositorio.pdb
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\BancoApi\obj\Debug\netcoreapp3.1\BancoApi.MvcApplicationPartsAssemblyInfo.cs

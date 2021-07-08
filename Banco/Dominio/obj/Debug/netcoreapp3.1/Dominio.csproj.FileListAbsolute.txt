@@ -1,7 +1,6 @@
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
-C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
 C:\Users\WINDOWS 8.1\Documents\TI\Zero ao um\API\Maitha\Banco\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
